@@ -1,7 +1,5 @@
 ### Hi there, I'm Joydip 👋
 
-- 🔭 I’m currently building some cool stuff
-- 🌱 I’m currently learning `flutter`
 - 💬 Ask me about anything on `Javascript`, `typescript`, `node`, `react`, `deno`
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
 - 😄 Pronouns: He/him
