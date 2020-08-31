@@ -1,5 +1,6 @@
 ### Hi there, I'm Joydip 👋
 
+- 👷 I'm a consultant and deals with `web`, `hybrid mobile` and `cross desktop` application
 - 💬 Ask me about anything on `Javascript`, `typescript`, `node`, `react`, `deno`
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
 - 😄 Pronouns: He/him
