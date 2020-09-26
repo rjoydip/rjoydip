@@ -2,7 +2,7 @@
 
 - 👷 I'm a Senior Associate Consultant at Infosys
 - 💻 Currently working on Spring boot at professional work
-- 🧟 I do experiment `web`, `hybrid mobile` and `cross desktop` application
+- 🧟 I do experiment `web`, `hybrid mobile` and `cross platform desktop` application
 - 💬 Ask me about anything on `Javascript`, `typescript`, `node`, `react`, `deno`
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
 - 😄 Pronouns: He/him
