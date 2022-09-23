@@ -1,6 +1,6 @@
 ### Hi there, I'm Joydip 👋
 
-- 👷 Associate Tech Specilist at Tech Mahindra
+- 👷 Associate Tech Specilist at **Tech Mahindra**
 - 😄 Pronouns: He/him
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
 
