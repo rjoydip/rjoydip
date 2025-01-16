@@ -3,6 +3,7 @@
 - 👷 Associate Tech Specialist at **Tech Mahindra**
 - 😄 Pronouns: He/him
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
+- 📜 Website: [rjoydip.com](https://rjoydip.com/)
 
 **Languages and Tools:**  
 
