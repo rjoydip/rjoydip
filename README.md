@@ -1,8 +1,5 @@
 ### Hi there, I'm Joydip 👋
 
-- 👷 Associate Tech Specialist at **Tech Mahindra**
-- 😄 Pronouns: He/him
-- 👨🏻‍💻 Working: GenAI project
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
 - 🌐 Website: [rjoydip.com](https://rjoydip.com/)
 - 📑 Resume: [resume.rjoydip.com](https://resume.rjoydip.com/)
