@@ -1,5 +1,7 @@
 ### Hi there, I'm Joydip 👋
 
+Technology Specialist with 10+ years of experience driving the evolution of high-performance enterprise systems. Expert in architecting scalable **Node.js** ecosystems, **Generative AI** orchestration (**RAG**) and **event-driven** applications.
+
 - 📫 How to reach me: [@rjoydip](https://twitter.com/rjoydip11) | [@joydipand](mailto:joydipand@gmail.com)
 - 🌐 Website: [rjoydip.com](https://rjoydip.com/)
 - 📑 Resume: [resume.rjoydip.com](https://resume.rjoydip.com/)
